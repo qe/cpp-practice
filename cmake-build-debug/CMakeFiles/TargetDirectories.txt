@@ -1,0 +1,3 @@
+/Users/alexismodes/CLionProjects/cpp-practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alexismodes/CLionProjects/cpp-practice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexismodes/CLionProjects/cpp-practice/cmake-build-debug/CMakeFiles/cpp_practice.dir
